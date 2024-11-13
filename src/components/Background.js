@@ -13,13 +13,13 @@ const Background = ({ children }) => {
 
   return <div style={backgroundStyle}>{children}
          <Contenedor>
-         <Card titulo="Card 1" descripcion="Descripción de la tarjeta 1" imagenUrl="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtlndlMPLj17nMNIanMx79nW0swIu_179D7g&s" />
+         <Card titulo="Card 1" descripcion="Descripción de la tarjeta 1" imagenUrl="./images/img1.jpg" />
 
          </Contenedor>
         
          <Contenedor>
          
-         <Card titulo="Card 1" descripcion="Descripción de la tarjeta 1" imagenUrl="https://i.pinimg.com/236x/19/5b/21/195b21515f13aff8d74fab2052b2f5b1.jpg" />
+         <Card titulo="Card 2" descripcion="Descripción de la tarjeta 2" imagenUrl="./images/img2.jpg" />
 
          </Contenedor>
          <Contenedor>
